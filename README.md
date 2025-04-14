@@ -159,19 +159,19 @@ kubectl scale deployment sample-app --replicas=4
 ## Implementation Screenshots
 
 ### Minikube Startup and Deployment
-![Minikube Startup and Deployment](screenshots/Screenshot 2025-04-14 220352.png)
+![Minikube Startup and Deployment](screenshots/Screenshot_2025-04-14_220352.png)
 *Screenshot shows the successful startup of Minikube and the creation of deployments and services*
 
 ### Pod Description and Container Details
-![Pod Description](screenshots/Screenshot 2025-04-14 220407.png)
+![Pod Description](screenshots/Screenshot_2025-04-14_220407.png)
 *Screenshot shows detailed information about the running pod including resources, status and events*
 
 ### Service Exposure and Logs
-![Service Exposure and Logs](screenshots/Screenshot 2025-04-14 220420.png)
+![Service Exposure and Logs](screenshots/Screenshot_2025-04-14_220420.png)
 *Screenshot shows the service being exposed via NodePort and the logs of the NGINX container*
 
 ### YAML Configuration Files
-![YAML Configuration Files](screenshots/Screenshot 2025-04-14 220454.png)
+![YAML Configuration Files](screenshots/Screenshot_2025-04-14_220454.png)
 *Screenshot shows the content of deployment.yaml and service.yaml files*
 
 ## Implementation Details and Commands
